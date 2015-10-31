@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		230D3C1C1BE32EAA0080646A /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 230D3C1B1BE32EA90080646A /* btn.wav */; };
 		23C4FEB71BE1BB35007BAD53 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23C4FEB61BE1BB35007BAD53 /* AppDelegate.swift */; };
 		23C4FEB91BE1BB35007BAD53 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23C4FEB81BE1BB35007BAD53 /* ViewController.swift */; };
 		23C4FEBC1BE1BB35007BAD53 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23C4FEBA1BE1BB35007BAD53 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		230D3C1B1BE32EA90080646A /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 		23C4FEB31BE1BB35007BAD53 /* retro-calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "retro-calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		23C4FEB61BE1BB35007BAD53 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		23C4FEB81BE1BB35007BAD53 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -43,6 +45,7 @@
 				23C4FEB51BE1BB35007BAD53 /* retro-calculator */,
 				23C4FEB41BE1BB35007BAD53 /* Products */,
 				23C4FEC81BE1C6BD007BAD53 /* Minecraft.ttf */,
+				230D3C1B1BE32EA90080646A /* btn.wav */,
 			);
 			sourceTree = "<group>";
 		};
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				230D3C1C1BE32EAA0080646A /* btn.wav in Resources */,
 				23C4FEC11BE1BB35007BAD53 /* LaunchScreen.storyboard in Resources */,
 				23C4FEBE1BE1BB35007BAD53 /* Assets.xcassets in Resources */,
 				23C4FEC91BE1C6BD007BAD53 /* Minecraft.ttf in Resources */,
@@ -289,6 +293,7 @@
 				23C4FEC71BE1BB35007BAD53 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
