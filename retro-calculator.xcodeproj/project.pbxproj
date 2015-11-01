@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		230D3C1C1BE32EAA0080646A /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 230D3C1B1BE32EA90080646A /* btn.wav */; };
+		23394CB31BE5A53B0053A2F8 /* clear.png in Resources */ = {isa = PBXBuildFile; fileRef = 23394CAE1BE5A53B0053A2F8 /* clear.png */; };
+		23394CB41BE5A53B0053A2F8 /* launchbg.png in Resources */ = {isa = PBXBuildFile; fileRef = 23394CAF1BE5A53B0053A2F8 /* launchbg.png */; };
+		23394CB51BE5A53B0053A2F8 /* launchground.png in Resources */ = {isa = PBXBuildFile; fileRef = 23394CB01BE5A53B0053A2F8 /* launchground.png */; };
+		23394CB61BE5A53B0053A2F8 /* Retro-Calc.png in Resources */ = {isa = PBXBuildFile; fileRef = 23394CB11BE5A53B0053A2F8 /* Retro-Calc.png */; };
+		23394CB71BE5A53B0053A2F8 /* robot.png in Resources */ = {isa = PBXBuildFile; fileRef = 23394CB21BE5A53B0053A2F8 /* robot.png */; };
 		23C4FEB71BE1BB35007BAD53 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23C4FEB61BE1BB35007BAD53 /* AppDelegate.swift */; };
 		23C4FEB91BE1BB35007BAD53 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23C4FEB81BE1BB35007BAD53 /* ViewController.swift */; };
 		23C4FEBC1BE1BB35007BAD53 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23C4FEBA1BE1BB35007BAD53 /* Main.storyboard */; };
@@ -18,6 +23,11 @@
 
 /* Begin PBXFileReference section */
 		230D3C1B1BE32EA90080646A /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
+		23394CAE1BE5A53B0053A2F8 /* clear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clear.png; sourceTree = "<group>"; };
+		23394CAF1BE5A53B0053A2F8 /* launchbg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = launchbg.png; sourceTree = "<group>"; };
+		23394CB01BE5A53B0053A2F8 /* launchground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = launchground.png; sourceTree = "<group>"; };
+		23394CB11BE5A53B0053A2F8 /* Retro-Calc.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Retro-Calc.png"; sourceTree = "<group>"; };
+		23394CB21BE5A53B0053A2F8 /* robot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = robot.png; sourceTree = "<group>"; };
 		23C4FEB31BE1BB35007BAD53 /* retro-calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "retro-calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		23C4FEB61BE1BB35007BAD53 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		23C4FEB81BE1BB35007BAD53 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -64,6 +74,11 @@
 				23C4FEB81BE1BB35007BAD53 /* ViewController.swift */,
 				23C4FEBA1BE1BB35007BAD53 /* Main.storyboard */,
 				23C4FEBD1BE1BB35007BAD53 /* Assets.xcassets */,
+				23394CAF1BE5A53B0053A2F8 /* launchbg.png */,
+				23394CAE1BE5A53B0053A2F8 /* clear.png */,
+				23394CB01BE5A53B0053A2F8 /* launchground.png */,
+				23394CB11BE5A53B0053A2F8 /* Retro-Calc.png */,
+				23394CB21BE5A53B0053A2F8 /* robot.png */,
 				23C4FEBF1BE1BB35007BAD53 /* LaunchScreen.storyboard */,
 				23C4FEC21BE1BB35007BAD53 /* Info.plist */,
 			);
@@ -129,9 +144,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				23394CB71BE5A53B0053A2F8 /* robot.png in Resources */,
 				230D3C1C1BE32EAA0080646A /* btn.wav in Resources */,
+				23394CB61BE5A53B0053A2F8 /* Retro-Calc.png in Resources */,
 				23C4FEC11BE1BB35007BAD53 /* LaunchScreen.storyboard in Resources */,
 				23C4FEBE1BE1BB35007BAD53 /* Assets.xcassets in Resources */,
+				23394CB31BE5A53B0053A2F8 /* clear.png in Resources */,
+				23394CB41BE5A53B0053A2F8 /* launchbg.png in Resources */,
+				23394CB51BE5A53B0053A2F8 /* launchground.png in Resources */,
 				23C4FEC91BE1C6BD007BAD53 /* Minecraft.ttf in Resources */,
 				23C4FEBC1BE1BB35007BAD53 /* Main.storyboard in Resources */,
 			);
